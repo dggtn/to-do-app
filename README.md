@@ -7,13 +7,6 @@
 
 <body>
 <h1>📝 React.js Todo App</h1>
-<p>Check out the live app here: <a href="https://react-cool-todo-app.netlify.app/" target="_blank">Live Demo</a></p>
-<p><strong>GitHub Repository:</strong> <a href="https://github.com/dggtn/TodoApp" target="_blank">GitHub Repo</a></p>
-<p><strong>Status:</strong> <span id="netlify-status"></span></p>
-<p><strong>GitHub Code Size:</strong> <span id="github-size"></span> bytes</p>
-<p><strong>Last Commit:</strong> <span id="last-commit"></span></p>
-<p><strong>License:</strong> <span id="license"></span></p>
-
 <h2>💻 Tech Stack</h2>
 <ul>
     <li><strong>React:</strong> A JavaScript library for building user interfaces.</li>
@@ -27,7 +20,6 @@
 <h2>⚡ Features</h2>
 <h3>🔗 Share Tasks by Link or QR Code</h3>
 <p>Easily share your tasks with others using a link or QR code. You can even download the QR code for sharing.</p>
-<p><strong>Example Link:</strong> <a href="#">Shared Task</a></p>
 
 <h3>🤖 AI Emoji Suggestions</h3>
 <p>This feature uses <code>window.ai</code> (currently in an experimental phase) that works in the dev version of Chrome with certain flags enabled. For more information, refer to the <a href="#">documentation</a>.</p>
